@@ -7,4 +7,4 @@ ex: I am using for genetics 133 in this case.
 ## Process
 * Using https://public.enroll.wisc.edu/search, the website is for General Public to search UW-Madison courses – Public Course Search & Enroll application. There is no login required.
 * Using gmail as the platform to send email. Reference to https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp.
-
+* The check is happened every hour. Using schedule to do work every hour. Reference: https://schedule.readthedocs.io/en/stable/examples.html
