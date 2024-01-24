@@ -2,7 +2,14 @@
 ## Introduction
 <h5>Tired about checking the course search and enroll? Let's go with a simple web scraper!</h5>
 <h5>Get an email notification when class is not longer closed (best for classes without waitlist)</h5>
-ex: I am using for genetics 133 in this case.
+ex: I am using for genetics 133 in this case. Enroll the course successfully when testing the code!
+
+<div style="display: flex;">
+  <img src="./images/notify.jpg" alt="Email Notification" style="width: 40%;">
+  <img src="./images/enroll.jpg" alt="Course Info" style="width: 40%;">
+</div>
+
+
 
 ## Process
 * Using https://public.enroll.wisc.edu/search, the website is for General Public to search UW-Madison courses – Public Course Search & Enroll application. There is no login required.
