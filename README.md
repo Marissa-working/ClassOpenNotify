@@ -10,6 +10,7 @@ ex: I am using for genetics 133 in this case. Enroll the course successfully whe
 </div>
 
 <h4>Or you can check how many people have already been in waitlist</h4>
+<img src="./images/waitlist.jpg" alt="Waitlist screenshot" style="width: 80%;">
 
 ## Process
 * Using https://public.enroll.wisc.edu/search, the website is for General Public to search UW-Madison courses – Public Course Search & Enroll application. There is no login required.
@@ -20,4 +21,4 @@ ex: I am using for genetics 133 in this case. Enroll the course successfully whe
 * simpleAPI.py: simple GET request for https://public.enroll.wisc.edu/api/search/v1/enrollmentPackages/. Get response as JSON and parse it as dictionary.
 * sendEmail.py: add sendEmail function to the simpleAPI
 * checkHour.py: add schedult to send the request per hour until there is open seat or it is terminated by keyboard interrupt
-* getWaitNum: a side function to check how many people have already been in waitlist
+* getWaitNum.py: a side function to check how many people have already been in waitlist
