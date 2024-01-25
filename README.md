@@ -21,4 +21,4 @@ ex: I am using for genetics 133 in this case. Enroll the course successfully whe
 * simpleAPI.py: simple GET request for https://public.enroll.wisc.edu/api/search/v1/enrollmentPackages/. Get response as JSON and parse it as dictionary.
 * sendEmail.py: add sendEmail function to the simpleAPI
 * checkHour.py: add schedult to send the request per hour until there is open seat or it is terminated by keyboard interrupt
-* getWaitNum.py: a side function to check how many people have already been in waitlist
+* getWaitNum.py: a side function to check how many people have already been in waitlist(search class and section by class number)
